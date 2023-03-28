@@ -34,3 +34,9 @@ body {
   text-decoration: none;
   color: #027e12;
 }
+/*  responsive */
+@media only screen and (max-width: 600px)  {
+#clock{
+  font-size: 2rem;
+  }
+}
